@@ -14,7 +14,7 @@
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "1.17.2",
     "cf-deployment-tracker-client": "*",
-    "cfenv": "1.0.x",
+    "cfenv": "1.2.x",
     "cloudant": "1.7.1",
     "connect-flash": "0.1.1",
     "cookie-parser": "1.4.3",
